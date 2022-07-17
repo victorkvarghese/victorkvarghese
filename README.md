@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Victor Varghese**, Senior Software Consultant, 7+ years of experience wokring on bleeding edge front end technologies.
+I'm **Victor Varghese**, Senior Software Consultant, 7+ years of experience working on bleeding edge front end technologies.
 
 
 
