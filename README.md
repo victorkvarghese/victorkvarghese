@@ -42,8 +42,3 @@ I'm **Victor Varghese**, Senior Software Consultant, 7+ years of experience work
 -   [Watermelon Messenger #1 — Tabbar Transitions using React Navigation, Reanimated, Gesture Handler
 ](https://medium.com/@victorvarghese/watermelon-messenger-1-tabbar-transitions-using-react-navigation-reanimated-gesture-handler-728d904da0b8)
 
-## Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=victorkvarghese&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorkvarghese&hide=TeX&layout=compact&theme=prussian)
-
